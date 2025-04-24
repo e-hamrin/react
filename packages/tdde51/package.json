@@ -1,0 +1,11 @@
+{
+  "name": "tdde51",
+  "description": "Reusable hooks",
+  "version": "0.0.1",
+  "files": [
+    "LICENSE",
+    "index.js",
+    "cjs/"
+  ],
+  "license": "MIT"
+}
