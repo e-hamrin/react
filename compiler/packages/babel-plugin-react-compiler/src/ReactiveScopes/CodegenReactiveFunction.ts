@@ -2310,6 +2310,7 @@ function codegenInstructionValue(
  * u007F         : Delete character
  * u0080 to u009F: C1 control codes
  * u00A0 to uFFFF: All non-basic Latin characters
+ * u010000 to u10FFFF
  * https://en.wikipedia.org/wiki/List_of_Unicode_characters#Control_codes
  */
 const STRING_REQUIRES_EXPR_CONTAINER_PATTERN =
